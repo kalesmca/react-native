@@ -1,0 +1,32 @@
+[
+    {
+        "id": "m1", "menuName": "Diffin", "color":"#DA70D6"
+    },
+    {
+        "id": "m2", "menuName": "Lunch", "color":"#FF4500"
+    },
+    {
+        "id": "m3", "menuName": "Breakfast", "color":"#00CED1"
+    },
+    {
+        "id": "m4", "menuName": "Evening Snacks", "color":"#191970"
+    },
+    {
+        "id": "m5", "menuName": "Fresh Juices", "color":"#DDA0DD"
+    },
+    {
+        "id": "m6", "menuName": "Ice Creams", "color":"#00FF7F"
+    },
+    {
+        "id": "m7", "menuName": "Soup Items", "color":"#9ACD32"
+    },
+    {
+        "id": "m8", "menuName": "Sweets", "color":"#FF6347"
+    },
+    {
+        "id": "m9", "menuName": "Masala Items", "color":"#00FF7F"
+    },
+    {
+        "id": "m10", "menuName": "Others", "color":"#8B4513"
+    }
+]
