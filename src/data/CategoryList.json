@@ -1,0 +1,8 @@
+[
+    {"id" : "c1", "imgUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAlR58H5AEZ3P65k7DjGpW3Hg76Gc4eR7Geg&usqp=CAU","catName": "Sandwitch" },
+    {"id" : "c2", "imgUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhT-53egdfSisasTPyV_wrZ85M3rCkPJs-BQ&usqp=CAU","catName": "Pizza" },
+    {"id" : "c3", "imgUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlMLw82pj03ySKGo2rin9IZLeGNVlI5M5mg&usqp=CAU","catName": "Poori" },
+    {"id" : "c4", "imgUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8yMIHkxs901EzRfpvMq6gIEfDADZcfbJxLw&usqp=CAU","catName": "Bread Masala" },
+    {"id" : "c5", "imgUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7dJ8Sh3sxRxJUONrh8sG5ITwVUAOq78DHoQ&usqp=CAU","catName": "Curry" },
+    {"id" : "c6", "imgUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAlR58H5AEZ3P65k7DjGpW3Hg76Gc4eR7Geg&usqp=CAU","catName": "Parota" }
+]
